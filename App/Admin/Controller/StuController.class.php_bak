@@ -1,0 +1,55 @@
+<?php
+namespace Admin\Controller;
+use Think\Controller;
+class StuController extends Controller {
+    public function index(){
+    	//1 数据装载到模板中 
+    	//2 激活分页连接 界面 
+    	//3 实现分页效果 分页类
+    	 
+
+    	//1 赋值分页 联系界面和数据
+    	$p = 1;
+    	if(!empty($_POST['pageNum'])){
+    		$p=$_POST['pageNum'];
+    	}
+    	$_GET['p'] = $p;
+
+
+
+    	//2 赋值每页最大显示数据
+    	$numPerPage = 10;
+    	if(!empty($_POST['numPerPage'])){
+    		$numPerPage=$_POST['numPerPage'];
+    	}
+    	// echo $numPerPage;
+    	// echo $p;
+    	//查询学生信息
+    	$mod = M('stu');
+    	$total = $mod->count();
+    	//实现分页 
+    	$Page = new \Think\Page($total,$numPerPage);
+
+
+
+    	//模板页面
+    	$this->assign("totalCount",$total);//数据的总条数
+    	$this->assign("numPerPage",$numPerPage);//每页显示五条
+    	// $this->assign("pageNumShown",5);//显示多少页
+    	$this->assign("currentPage",$p);//当前页码数
+    	$this->assign("list",$mod->limit($Page->firstRow.','.$Page->listRows)->select());
+        $this->display();
+    }
+
+    public function del(){
+    	$m = M("stu")->delete($_GET['id']+0);
+
+    	if($m>0){
+    		$url = U("Admin/Stu/index");
+    		$this->success("删除成功",$url);
+
+    	}else{
+    		$this->error("删除失败");
+    	}
+    }
+}

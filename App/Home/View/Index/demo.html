@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>ThinkPHP框架实例--模板</title>
+</head>
+<body>
+	<h1>ThinkPHP框架实例--模板 只负责输出</h1>
+	<ul>
+		<li>输出变量$name: {$name}</li>
+		<li>输出数组{$stu['name']}:{$stu.sex}</li>
+		<li>默认值输出 你好: {$Think.get.name2|default="游客"}</li>
+		<li>输出POST方式传的值{$Think.post.num}: {$_POST['num']+200}</li>
+		<li>输出系统的函数{:date("Y-m-d")}</li>
+		<li>输出自定义函数{:aa()}</li>
+	</ul>
+	<h2>模板替换</h2>
+	<ul>
+		<li>当前网站的地址（不含域名） _ _ROOT_ _:__ROOT__</li>
+		<li>当前应用(项目)地址_ _APP_ _:__APP__</li>
+		<li>当前模块的URL地址 （不含域名）_ _MODULE_ _：__MODULE__</li>
+		<li>当前控制器的url地址_ _CONTROLLER_ _:__CONTROLLER__</li>
+		<li>当前控制器的url地址_ _URL_ _:__URL__</li>
+		<li>当前操作的url_ _ACTION_ _:__ACTION__</li>
+		<li>当前的页面URL_ _SELF_ _:__SELF__</li>
+		<!-- self可以含当前页面的参数 而action不可以  -->
+		<li>当前公共目录URL地址 _ _PUBLIC_ _:__PUBLIC__</li>
+	</ul>
+</body>
+</html>

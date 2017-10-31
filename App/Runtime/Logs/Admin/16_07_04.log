@@ -1,0 +1,2874 @@
+[ 2016-07-04T14:33:50+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T15:35:11+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/jquery.cookie.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:11+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/uploadify/css/uploadify.css
+ERR: 无法加载控制器:Uploadify
+
+[ 2016-07-04T15:35:11+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/xheditor/xheditor_lang/zh-cn.js
+ERR: 无法加载控制器:Xheditor
+
+[ 2016-07-04T15:35:11+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/uploadify/scripts/jquery.uploadify.js
+ERR: 无法加载控制器:Uploadify
+
+[ 2016-07-04T15:35:11+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/chart/raphael.js
+ERR: 无法加载控制器:Chart
+
+[ 2016-07-04T15:35:11+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/chart/g.raphael.js
+ERR: 无法加载控制器:Chart
+
+[ 2016-07-04T15:35:11+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/xheditor/xheditor-1.2.1.min.js
+ERR: 无法加载控制器:Xheditor
+
+[ 2016-07-04T15:35:11+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/chart/g.line.js
+ERR: 无法加载控制器:Chart
+
+[ 2016-07-04T15:35:11+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/jquery-1.7.2.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:11+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/chart/g.dot.js
+ERR: 无法加载控制器:Chart
+
+[ 2016-07-04T15:35:11+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/chart/g.bar.js
+ERR: 无法加载控制器:Chart
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.util.date.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.validate.method.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.barDrag.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.drag.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.tree.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.accordion.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.core.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/jquery.validate.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.theme.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/chart/g.pie.js
+ERR: 无法加载控制器:Chart
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.switchEnv.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.navTab.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.alertMsg.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.resize.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.contextmenu.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.dialog.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.sortDrag.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.ui.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.stable.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/jquery.bgiframe.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.ajax.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.tab.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.database.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.pagination.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.datepicker.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.dialogDrag.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.cssTable.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.taskBar.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.effects.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.panel.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.checkbox.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.history.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.combox.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.print.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.regional.zh.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/jquery.cookie.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/jquery.validate.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/jquery.bgiframe.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/xheditor/xheditor-1.2.1.min.js
+ERR: 无法加载控制器:Xheditor
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/xheditor/xheditor_lang/zh-cn.js
+ERR: 无法加载控制器:Xheditor
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/uploadify/scripts/jquery.uploadify.js
+ERR: 无法加载控制器:Uploadify
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/chart/raphael.js
+ERR: 无法加载控制器:Chart
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/chart/g.raphael.js
+ERR: 无法加载控制器:Chart
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/chart/g.bar.js
+ERR: 无法加载控制器:Chart
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/chart/g.line.js
+ERR: 无法加载控制器:Chart
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/chart/g.pie.js
+ERR: 无法加载控制器:Chart
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/chart/g.dot.js
+ERR: 无法加载控制器:Chart
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.core.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.util.date.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.validate.method.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.barDrag.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.drag.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.tree.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.accordion.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.ui.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.theme.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.switchEnv.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.alertMsg.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.contextmenu.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.navTab.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.tab.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.resize.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.dialog.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/themes/css/print.css
+ERR: 无法加载控制器:Themes
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.dialogDrag.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.sortDrag.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.cssTable.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.stable.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.taskBar.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.ajax.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.pagination.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.database.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:14+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.datepicker.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:14+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.effects.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:14+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.panel.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:14+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.checkbox.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:14+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.history.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:14+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.combox.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:14+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.print.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:14+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/js/dwz.regional.zh.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-04T15:35:16+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/tabsPage.html
+ERR: 无法加载控制器:TabsPage
+
+[ 2016-07-04T15:40:16+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467618016096
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Stu
+
+[ 2016-07-04T15:42:19+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467618139070
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T15:42:25+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467618145207
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T15:42:26+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467618146470
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T15:42:59+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467618179340
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005999s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005999s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-04T15:43:04+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467618184049
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T15:43:36+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467618215945
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T15:43:38+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467618218721
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-07-04T15:43:48+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467618228583
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-04T15:43:49+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467618229329
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T15:43:53+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467618233673
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T15:43:54+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467618234751
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2016-07-04T15:44:12+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467618252206
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-04T15:44:23+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467618263723
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015598s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T15:44:33+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467618273532
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015598s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015598s ]
+
+[ 2016-07-04T15:44:37+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467618277675
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T15:46:33+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467618393365
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:00:47+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467619247769
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015628s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015628s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:00:48+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467619248140
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015629s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015629s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:16:34+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467620194192
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:16:34+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467620194776
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:16:35+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467620195496
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:16:35+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467620195894
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:16:36+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467620196629
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:16:43+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467620203854
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:17:48+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467620268495
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 3 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 9 行.
+NOTIC: [8] Undefined index: keyword C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 14 行.
+NOTIC: [8] Undefined index: classid C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 15 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+NOTIC: [8] Undefined variable: list C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 47 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 60 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 61 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 62 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 63 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 64 行.
+NOTIC: [8] Undefined variable: totalCount C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 66 行.
+NOTIC: [8] Undefined variable: totalCount C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 68 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 68 行.
+NOTIC: [8] Undefined variable: currentPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.280808s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.280808s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:17:54+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467620274834
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 3 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 9 行.
+NOTIC: [8] Undefined index: keyword C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 14 行.
+NOTIC: [8] Undefined index: classid C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 15 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+NOTIC: [8] Undefined variable: list C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 47 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 60 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 61 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 62 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 63 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 64 行.
+NOTIC: [8] Undefined variable: totalCount C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 66 行.
+NOTIC: [8] Undefined variable: totalCount C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 68 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 68 行.
+NOTIC: [8] Undefined variable: currentPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:17:56+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467620276579
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 3 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 9 行.
+NOTIC: [8] Undefined index: keyword C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 14 行.
+NOTIC: [8] Undefined index: classid C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 15 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+NOTIC: [8] Undefined variable: list C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 47 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 60 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 61 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 62 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 63 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 64 行.
+NOTIC: [8] Undefined variable: totalCount C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 66 行.
+NOTIC: [8] Undefined variable: totalCount C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 68 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 68 行.
+NOTIC: [8] Undefined variable: currentPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:20:51+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0624s ]
+SQL: SELECT * FROM `stu`  [ RunTime:0.1872s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 3 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 9 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 60 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 61 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 62 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 63 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 64 行.
+NOTIC: [8] Undefined variable: totalCount C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 66 行.
+NOTIC: [8] Undefined variable: totalCount C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 68 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 68 行.
+NOTIC: [8] Undefined variable: currentPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:21:20+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `stu`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 3 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 9 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 60 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 61 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 62 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 63 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 64 行.
+NOTIC: [8] Undefined variable: totalCount C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 66 行.
+NOTIC: [8] Undefined variable: totalCount C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 68 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 68 行.
+NOTIC: [8] Undefined variable: currentPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:23:26+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 3 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 9 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 60 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 61 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 62 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 63 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 64 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 68 行.
+NOTIC: [8] Undefined variable: currentPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:24:27+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 3 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 9 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 60 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 61 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 62 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 63 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 64 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 68 行.
+NOTIC: [8] Undefined variable: currentPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:24:38+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 3 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 9 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 60 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 61 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 62 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 63 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 64 行.
+NOTIC: [8] Undefined variable: numPerPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 68 行.
+NOTIC: [8] Undefined variable: currentPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:25:06+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `stu`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+NOTIC: [8] Undefined variable: currentPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:25:23+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+NOTIC: [8] Undefined variable: currentPage C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:26:09+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `stu`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015601s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015601s ]
+
+[ 2016-07-04T16:26:48+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0468s ]
+SQL: SELECT * FROM `stu`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:27:08+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:27:09+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `stu`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:27:10+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `stu`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:27:29+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:27:53+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `stu`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-04T16:31:11+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0624s ]
+SQL: SELECT * FROM `stu`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:31:59+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,5   [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:32:54+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:33:15+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0080s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-04T16:33:23+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0330s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-04T16:40:22+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:40:35+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467621634839
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0156s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: keyword C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 14 行.
+NOTIC: [8] Undefined index: classid C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 15 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:40:38+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:40:47+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:40:54+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:41:38+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:41:51+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:42:38+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015601s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015601s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:42:41+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031202s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031202s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:42:43+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:43:05+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-07-04T16:43:07+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015601s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 10,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:43:10+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 20,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:43:14+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 10,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:43:50+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 10,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:43:54+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-07-04T16:43:55+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 10,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:43:56+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 20,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015601s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015601s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:44:04+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0312s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 20,10   [ RunTime:0.0468s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:45:11+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 20,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:45:14+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0624s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 40,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:45:45+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 40,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-07-04T16:45:56+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046801s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046801s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:46:01+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 20,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:46:04+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:46:38+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:46:59+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0936s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,20   [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.015601s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015601s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:47:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0156s ]
+SQL: SELECT * FROM `stu` LIMIT 0,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:47:17+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,15   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:47:23+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0468s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:47:55+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/del/id/22/navTabId/liststu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:del
+
+[ 2016-07-04T16:49:51+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-07-04T16:50:07+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/del/id/22/navTabId/liststu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: DELETE FROM `stu` WHERE `id` = 22 [ RunTime:0.3744s ]
+
+[ 2016-07-04T16:50:23+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:52:37+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:52:44+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/del/id/23/navTabId/liststu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: DELETE FROM `stu` WHERE `id` = 23 [ RunTime:0.0156s ]
+NOTIC: [8] Undefined index: callbackType C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\ThinkPHP\Library\Think\Controller.class.php 第 219 行.
+NOTIC: [8] Undefined index: forwardUrl C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\ThinkPHP\Library\Think\Controller.class.php 第 220 行.
+
+[ 2016-07-04T16:52:55+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467622374978
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: keyword C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 14 行.
+NOTIC: [8] Undefined index: classid C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 15 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:53:04+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/del/id/24/navTabId/liststu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: DELETE FROM `stu` WHERE `id` = 24 [ RunTime:0.0156s ]
+NOTIC: [8] Undefined index: callbackType C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\ThinkPHP\Library\Think\Controller.class.php 第 219 行.
+NOTIC: [8] Undefined index: forwardUrl C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\ThinkPHP\Library\Think\Controller.class.php 第 220 行.
+
+[ 2016-07-04T16:54:24+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:55:43+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0468s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:55:50+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/del/id/53/navTabId/liststu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: DELETE FROM `stu` WHERE `id` = 53 [ RunTime:0.0624s ]
+NOTIC: [8] Undefined index: callbackType C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\ThinkPHP\Library\Think\Controller.class.php 第 219 行.
+NOTIC: [8] Undefined index: forwardUrl C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\ThinkPHP\Library\Think\Controller.class.php 第 220 行.
+
+[ 2016-07-04T16:56:56+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:56:59+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/del/id/54/navTabId/liststu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0468s ]
+SQL: DELETE FROM `stu` WHERE `id` = 54 [ RunTime:0.1872s ]
+NOTIC: [8] Undefined index: callbackType C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\ThinkPHP\Library\Think\Controller.class.php 第 219 行.
+NOTIC: [8] Undefined index: forwardUrl C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\ThinkPHP\Library\Think\Controller.class.php 第 220 行.
+
+[ 2016-07-04T16:57:17+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:57:24+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/del/id/61/navTabId/liststu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: DELETE FROM `stu` WHERE `id` = 61 [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackType C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\ThinkPHP\Library\Think\Controller.class.php 第 219 行.
+NOTIC: [8] Undefined index: forwardUrl C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\ThinkPHP\Library\Think\Controller.class.php 第 220 行.
+
+[ 2016-07-04T16:58:03+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:58:10+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/del/id/65/navTabId/liststu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: DELETE FROM `stu` WHERE `id` = 65 [ RunTime:0.0624s ]
+NOTIC: [8] Undefined index: callbackType C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\ThinkPHP\Library\Think\Controller.class.php 第 219 行.
+NOTIC: [8] Undefined index: forwardUrl C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\ThinkPHP\Library\Think\Controller.class.php 第 220 行.
+
+[ 2016-07-04T16:59:03+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T16:59:07+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` LIMIT 0,25   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015601s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015601s ]
+
+[ 2016-07-04T16:59:11+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0312s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0156s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T17:00:49+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467622849562
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0156s ]
+SQL: SELECT * FROM `stu` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: keyword C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 14 行.
+NOTIC: [8] Undefined index: classid C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 15 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T17:05:07+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: search C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 244 行.
+NOTIC: [8] Undefined index: values C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 245 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T17:05:09+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467623108848
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0780s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: search C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 244 行.
+NOTIC: [8] Undefined index: values C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 245 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: keyword C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 14 行.
+NOTIC: [8] Undefined index: classid C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 15 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T17:05:11+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467623111554
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0624s ]
+NOTIC: [8] Undefined variable: search C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 244 行.
+NOTIC: [8] Undefined index: values C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 245 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: keyword C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 14 行.
+NOTIC: [8] Undefined index: classid C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 15 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T17:05:26+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/add?_=1467623126583
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T17:05:34+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467623134721
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: search C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 244 行.
+NOTIC: [8] Undefined index: values C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 245 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: keyword C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 14 行.
+NOTIC: [8] Undefined index: classid C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 15 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T17:05:36+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index?_=1467623136365
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: search C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 244 行.
+NOTIC: [8] Undefined index: values C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 245 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: keyword C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 14 行.
+NOTIC: [8] Undefined index: classid C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 15 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T17:05:40+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/add?_=1467623140508
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T17:06:06+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/insert/navTabId/liststu/callbackType/closeCurrent
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `stu` (`name`,`sex`,`age`,`classid`) VALUES ('aa123','1','23','class46') [ RunTime:0.2028s ]
+NOTIC: [8] Undefined index: forwardUrl C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\ThinkPHP\Library\Think\Controller.class.php 第 220 行.
+
+[ 2016-07-04T17:06:11+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` ORDER BY id desc LIMIT 20,10   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: search C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 244 行.
+NOTIC: [8] Undefined index: values C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 245 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T17:06:16+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0312s ]
+SQL: SELECT * FROM `stu` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: search C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 244 行.
+NOTIC: [8] Undefined index: values C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 245 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T17:06:22+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0312s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0468s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: search C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 244 行.
+NOTIC: [8] Undefined index: values C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 245 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T17:06:24+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0156s ]
+NOTIC: [8] Undefined variable: search C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 244 行.
+NOTIC: [8] Undefined index: values C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 245 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062401s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062401s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T17:06:26+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015601s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0156s ]
+NOTIC: [8] Undefined variable: search C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 244 行.
+NOTIC: [8] Undefined index: values C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 245 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T17:06:36+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/edit/id/106?_=1467623195980
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0780s ]
+SQL: SELECT * FROM `stu` WHERE `id` = 106 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T17:06:38+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/update/navTabId/liststu/callbackType/closeCurrent
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `stu` SET `name`='aa123',`sex`='0',`age`='23',`classid`='class4' WHERE `id` = 106 [ RunTime:0.0156s ]
+NOTIC: [8] Undefined index: forwardUrl C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\ThinkPHP\Library\Think\Controller.class.php 第 220 行.
+
+[ 2016-07-04T17:06:42+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: search C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 244 行.
+NOTIC: [8] Undefined index: values C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 245 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T17:07:09+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/del/id/84/navTabId/liststu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.1404s ]
+SQL: DELETE FROM `stu` WHERE `id` IN ('84') [ RunTime:0.0780s ]
+NOTIC: [8] Undefined index: callbackType C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\ThinkPHP\Library\Think\Controller.class.php 第 219 行.
+NOTIC: [8] Undefined index: forwardUrl C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\ThinkPHP\Library\Think\Controller.class.php 第 220 行.
+
+[ 2016-07-04T17:07:13+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015601s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: search C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 244 行.
+NOTIC: [8] Undefined index: values C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 245 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-07-04T17:07:25+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Stu/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `stu` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `stu` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0640s ]
+NOTIC: [8] Undefined variable: search C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 244 行.
+NOTIC: [8] Undefined index: values C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 245 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 5 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 40 行.
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\acbe0cd75aa3ce87e2fd5b68eeb6e003.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-04T17:11:14+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/tabsPage.html?_=1467623474882
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:TabsPage
+
+[ 2016-07-04T17:12:06+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Grade/index?_=1467623526284
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `grade` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `grade` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `grade` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0156s ]
+NOTIC: [8] Undefined variable: search C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 244 行.
+NOTIC: [8] Undefined index: values C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Admin\Controller\CommonController.class.php 第 245 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _order C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\133b8de4e9aabb0ddfcb76fc4d00af01.php 第 4 行.
+NOTIC: [8] Undefined index: _sort C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\133b8de4e9aabb0ddfcb76fc4d00af01.php 第 5 行.
+NOTIC: [8] Undefined index: keyword C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\133b8de4e9aabb0ddfcb76fc4d00af01.php 第 14 行.
+NOTIC: [8] Undefined index: classid C:\xampp\htdocs\shphp046_C\28_thinkphp04\demo\App\Runtime\Cache\Admin\133b8de4e9aabb0ddfcb76fc4d00af01.php 第 15 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-04T17:14:10+08:00 ] ::1 /shphp046_C/28_thinkphp04/demo/index.php/Admin/Grade/add?_=1467623650488
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+ERR: 模板不存在:./App/Admin/View/Grade/add.html
+
